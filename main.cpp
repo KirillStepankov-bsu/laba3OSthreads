@@ -72,7 +72,9 @@ int main() {
     std::map<int, std::pair<double, double>> times = generateTimes(matrixA, matrixB, matrixC, n);
 
     for (int i = 0; i < times.size(); ++i) {
-        std::cout << "Amount of blocks: " << i + 1 << "; Duration for sequential: " << times[i + 1].first
-                  << "; Duration for thread: " << times[i + 1].second << "; Speed up: " << 1.*times[i+1].first/times[i+1].second << std::endl;
+        std::cout << "Size of blocks: " << i + 1 << "; Amount of blocks: " << ceil((1. * n / (i + 1))) * n
+                  << "; Duration for sequential: " << times[i + 1].first
+                  << "; Duration for thread: " << times[i + 1].second << "; Speed up: "
+                  << 1. * times[i + 1].first / times[i + 1].second << std::endl;
     }
 }

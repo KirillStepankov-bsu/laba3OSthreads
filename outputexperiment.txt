@@ -1,299 +1,299 @@
-Amount of blocks: 1; Duration for sequential: 216; Duration for thread: 12636; Speed up: 0.017094
-Amount of blocks: 2; Duration for sequential: 209; Duration for thread: 1542; Speed up: 0.135538
-Amount of blocks: 3; Duration for sequential: 244; Duration for thread: 632; Speed up: 0.386076
-Amount of blocks: 4; Duration for sequential: 239; Duration for thread: 295; Speed up: 0.810169
-Amount of blocks: 5; Duration for sequential: 203; Duration for thread: 188; Speed up: 1.07979
-Amount of blocks: 6; Duration for sequential: 220; Duration for thread: 136; Speed up: 1.61765
-Amount of blocks: 7; Duration for sequential: 210; Duration for thread: 112; Speed up: 1.875
-Amount of blocks: 8; Duration for sequential: 209; Duration for thread: 98; Speed up: 2.13265
-Amount of blocks: 9; Duration for sequential: 222; Duration for thread: 101; Speed up: 2.19802
-Amount of blocks: 10; Duration for sequential: 212; Duration for thread: 80; Speed up: 2.65
-Amount of blocks: 11; Duration for sequential: 225; Duration for thread: 77; Speed up: 2.92208
-Amount of blocks: 12; Duration for sequential: 218; Duration for thread: 74; Speed up: 2.94595
-Amount of blocks: 13; Duration for sequential: 219; Duration for thread: 69; Speed up: 3.17391
-Amount of blocks: 14; Duration for sequential: 222; Duration for thread: 69; Speed up: 3.21739
-Amount of blocks: 15; Duration for sequential: 210; Duration for thread: 63; Speed up: 3.33333
-Amount of blocks: 16; Duration for sequential: 214; Duration for thread: 63; Speed up: 3.39683
-Amount of blocks: 17; Duration for sequential: 224; Duration for thread: 63; Speed up: 3.55556
-Amount of blocks: 18; Duration for sequential: 215; Duration for thread: 61; Speed up: 3.52459
-Amount of blocks: 19; Duration for sequential: 214; Duration for thread: 64; Speed up: 3.34375
-Amount of blocks: 20; Duration for sequential: 214; Duration for thread: 57; Speed up: 3.75439
-Amount of blocks: 21; Duration for sequential: 215; Duration for thread: 58; Speed up: 3.7069
-Amount of blocks: 22; Duration for sequential: 211; Duration for thread: 52; Speed up: 4.05769
-Amount of blocks: 23; Duration for sequential: 208; Duration for thread: 56; Speed up: 3.71429
-Amount of blocks: 24; Duration for sequential: 218; Duration for thread: 56; Speed up: 3.89286
-Amount of blocks: 25; Duration for sequential: 210; Duration for thread: 54; Speed up: 3.88889
-Amount of blocks: 26; Duration for sequential: 213; Duration for thread: 55; Speed up: 3.87273
-Amount of blocks: 27; Duration for sequential: 220; Duration for thread: 54; Speed up: 4.07407
-Amount of blocks: 28; Duration for sequential: 209; Duration for thread: 57; Speed up: 3.66667
-Amount of blocks: 29; Duration for sequential: 212; Duration for thread: 53; Speed up: 4
-Amount of blocks: 30; Duration for sequential: 209; Duration for thread: 56; Speed up: 3.73214
-Amount of blocks: 31; Duration for sequential: 216; Duration for thread: 50; Speed up: 4.32
-Amount of blocks: 32; Duration for sequential: 199; Duration for thread: 55; Speed up: 3.61818
-Amount of blocks: 33; Duration for sequential: 203; Duration for thread: 57; Speed up: 3.5614
-Amount of blocks: 34; Duration for sequential: 211; Duration for thread: 55; Speed up: 3.83636
-Amount of blocks: 35; Duration for sequential: 198; Duration for thread: 58; Speed up: 3.41379
-Amount of blocks: 36; Duration for sequential: 210; Duration for thread: 54; Speed up: 3.88889
-Amount of blocks: 37; Duration for sequential: 200; Duration for thread: 53; Speed up: 3.77358
-Amount of blocks: 38; Duration for sequential: 215; Duration for thread: 53; Speed up: 4.0566
-Amount of blocks: 39; Duration for sequential: 210; Duration for thread: 60; Speed up: 3.5
-Amount of blocks: 40; Duration for sequential: 283; Duration for thread: 53; Speed up: 5.33962
-Amount of blocks: 41; Duration for sequential: 206; Duration for thread: 53; Speed up: 3.88679
-Amount of blocks: 42; Duration for sequential: 213; Duration for thread: 57; Speed up: 3.73684
-Amount of blocks: 43; Duration for sequential: 211; Duration for thread: 51; Speed up: 4.13725
-Amount of blocks: 44; Duration for sequential: 209; Duration for thread: 53; Speed up: 3.9434
-Amount of blocks: 45; Duration for sequential: 217; Duration for thread: 54; Speed up: 4.01852
-Amount of blocks: 46; Duration for sequential: 210; Duration for thread: 52; Speed up: 4.03846
-Amount of blocks: 47; Duration for sequential: 205; Duration for thread: 53; Speed up: 3.86792
-Amount of blocks: 48; Duration for sequential: 202; Duration for thread: 53; Speed up: 3.81132
-Amount of blocks: 49; Duration for sequential: 200; Duration for thread: 57; Speed up: 3.50877
-Amount of blocks: 50; Duration for sequential: 212; Duration for thread: 53; Speed up: 4
-Amount of blocks: 51; Duration for sequential: 211; Duration for thread: 60; Speed up: 3.51667
-Amount of blocks: 52; Duration for sequential: 218; Duration for thread: 55; Speed up: 3.96364
-Amount of blocks: 53; Duration for sequential: 218; Duration for thread: 56; Speed up: 3.89286
-Amount of blocks: 54; Duration for sequential: 208; Duration for thread: 55; Speed up: 3.78182
-Amount of blocks: 55; Duration for sequential: 202; Duration for thread: 55; Speed up: 3.67273
-Amount of blocks: 56; Duration for sequential: 203; Duration for thread: 53; Speed up: 3.83019
-Amount of blocks: 57; Duration for sequential: 209; Duration for thread: 55; Speed up: 3.8
-Amount of blocks: 58; Duration for sequential: 209; Duration for thread: 53; Speed up: 3.9434
-Amount of blocks: 59; Duration for sequential: 209; Duration for thread: 54; Speed up: 3.87037
-Amount of blocks: 60; Duration for sequential: 208; Duration for thread: 55; Speed up: 3.78182
-Amount of blocks: 61; Duration for sequential: 209; Duration for thread: 54; Speed up: 3.87037
-Amount of blocks: 62; Duration for sequential: 208; Duration for thread: 53; Speed up: 3.92453
-Amount of blocks: 63; Duration for sequential: 211; Duration for thread: 52; Speed up: 4.05769
-Amount of blocks: 64; Duration for sequential: 211; Duration for thread: 55; Speed up: 3.83636
-Amount of blocks: 65; Duration for sequential: 218; Duration for thread: 54; Speed up: 4.03704
-Amount of blocks: 66; Duration for sequential: 203; Duration for thread: 61; Speed up: 3.32787
-Amount of blocks: 67; Duration for sequential: 215; Duration for thread: 57; Speed up: 3.77193
-Amount of blocks: 68; Duration for sequential: 209; Duration for thread: 54; Speed up: 3.87037
-Amount of blocks: 69; Duration for sequential: 216; Duration for thread: 53; Speed up: 4.07547
-Amount of blocks: 70; Duration for sequential: 211; Duration for thread: 56; Speed up: 3.76786
-Amount of blocks: 71; Duration for sequential: 213; Duration for thread: 53; Speed up: 4.01887
-Amount of blocks: 72; Duration for sequential: 210; Duration for thread: 57; Speed up: 3.68421
-Amount of blocks: 73; Duration for sequential: 199; Duration for thread: 59; Speed up: 3.37288
-Amount of blocks: 74; Duration for sequential: 209; Duration for thread: 52; Speed up: 4.01923
-Amount of blocks: 75; Duration for sequential: 203; Duration for thread: 53; Speed up: 3.83019
-Amount of blocks: 76; Duration for sequential: 209; Duration for thread: 51; Speed up: 4.09804
-Amount of blocks: 77; Duration for sequential: 208; Duration for thread: 50; Speed up: 4.16
-Amount of blocks: 78; Duration for sequential: 212; Duration for thread: 53; Speed up: 4
-Amount of blocks: 79; Duration for sequential: 206; Duration for thread: 53; Speed up: 3.88679
-Amount of blocks: 80; Duration for sequential: 217; Duration for thread: 59; Speed up: 3.67797
-Amount of blocks: 81; Duration for sequential: 207; Duration for thread: 55; Speed up: 3.76364
-Amount of blocks: 82; Duration for sequential: 237; Duration for thread: 60; Speed up: 3.95
-Amount of blocks: 83; Duration for sequential: 233; Duration for thread: 62; Speed up: 3.75806
-Amount of blocks: 84; Duration for sequential: 211; Duration for thread: 58; Speed up: 3.63793
-Amount of blocks: 85; Duration for sequential: 227; Duration for thread: 64; Speed up: 3.54688
-Amount of blocks: 86; Duration for sequential: 237; Duration for thread: 59; Speed up: 4.01695
-Amount of blocks: 87; Duration for sequential: 205; Duration for thread: 65; Speed up: 3.15385
-Amount of blocks: 88; Duration for sequential: 213; Duration for thread: 53; Speed up: 4.01887
-Amount of blocks: 89; Duration for sequential: 210; Duration for thread: 60; Speed up: 3.5
-Amount of blocks: 90; Duration for sequential: 248; Duration for thread: 80; Speed up: 3.1
-Amount of blocks: 91; Duration for sequential: 229; Duration for thread: 62; Speed up: 3.69355
-Amount of blocks: 92; Duration for sequential: 209; Duration for thread: 61; Speed up: 3.42623
-Amount of blocks: 93; Duration for sequential: 210; Duration for thread: 68; Speed up: 3.08824
-Amount of blocks: 94; Duration for sequential: 210; Duration for thread: 55; Speed up: 3.81818
-Amount of blocks: 95; Duration for sequential: 202; Duration for thread: 67; Speed up: 3.01493
-Amount of blocks: 96; Duration for sequential: 202; Duration for thread: 64; Speed up: 3.15625
-Amount of blocks: 97; Duration for sequential: 210; Duration for thread: 59; Speed up: 3.55932
-Amount of blocks: 98; Duration for sequential: 217; Duration for thread: 68; Speed up: 3.19118
-Amount of blocks: 99; Duration for sequential: 202; Duration for thread: 72; Speed up: 2.80556
-Amount of blocks: 100; Duration for sequential: 214; Duration for thread: 68; Speed up: 3.14706
-Amount of blocks: 101; Duration for sequential: 212; Duration for thread: 66; Speed up: 3.21212
-Amount of blocks: 102; Duration for sequential: 208; Duration for thread: 64; Speed up: 3.25
-Amount of blocks: 103; Duration for sequential: 216; Duration for thread: 64; Speed up: 3.375
-Amount of blocks: 104; Duration for sequential: 207; Duration for thread: 62; Speed up: 3.33871
-Amount of blocks: 105; Duration for sequential: 205; Duration for thread: 59; Speed up: 3.47458
-Amount of blocks: 106; Duration for sequential: 212; Duration for thread: 65; Speed up: 3.26154
-Amount of blocks: 107; Duration for sequential: 207; Duration for thread: 64; Speed up: 3.23438
-Amount of blocks: 108; Duration for sequential: 210; Duration for thread: 59; Speed up: 3.55932
-Amount of blocks: 109; Duration for sequential: 211; Duration for thread: 59; Speed up: 3.57627
-Amount of blocks: 110; Duration for sequential: 210; Duration for thread: 57; Speed up: 3.68421
-Amount of blocks: 111; Duration for sequential: 207; Duration for thread: 56; Speed up: 3.69643
-Amount of blocks: 112; Duration for sequential: 217; Duration for thread: 56; Speed up: 3.875
-Amount of blocks: 113; Duration for sequential: 208; Duration for thread: 53; Speed up: 3.92453
-Amount of blocks: 114; Duration for sequential: 209; Duration for thread: 56; Speed up: 3.73214
-Amount of blocks: 115; Duration for sequential: 203; Duration for thread: 58; Speed up: 3.5
-Amount of blocks: 116; Duration for sequential: 210; Duration for thread: 58; Speed up: 3.62069
-Amount of blocks: 117; Duration for sequential: 210; Duration for thread: 57; Speed up: 3.68421
-Amount of blocks: 118; Duration for sequential: 210; Duration for thread: 60; Speed up: 3.5
-Amount of blocks: 119; Duration for sequential: 214; Duration for thread: 54; Speed up: 3.96296
-Amount of blocks: 120; Duration for sequential: 205; Duration for thread: 65; Speed up: 3.15385
-Amount of blocks: 121; Duration for sequential: 214; Duration for thread: 62; Speed up: 3.45161
-Amount of blocks: 122; Duration for sequential: 203; Duration for thread: 62; Speed up: 3.27419
-Amount of blocks: 123; Duration for sequential: 208; Duration for thread: 53; Speed up: 3.92453
-Amount of blocks: 124; Duration for sequential: 209; Duration for thread: 59; Speed up: 3.54237
-Amount of blocks: 125; Duration for sequential: 211; Duration for thread: 60; Speed up: 3.51667
-Amount of blocks: 126; Duration for sequential: 216; Duration for thread: 65; Speed up: 3.32308
-Amount of blocks: 127; Duration for sequential: 207; Duration for thread: 66; Speed up: 3.13636
-Amount of blocks: 128; Duration for sequential: 218; Duration for thread: 60; Speed up: 3.63333
-Amount of blocks: 129; Duration for sequential: 206; Duration for thread: 70; Speed up: 2.94286
-Amount of blocks: 130; Duration for sequential: 206; Duration for thread: 53; Speed up: 3.88679
-Amount of blocks: 131; Duration for sequential: 206; Duration for thread: 70; Speed up: 2.94286
-Amount of blocks: 132; Duration for sequential: 213; Duration for thread: 67; Speed up: 3.1791
-Amount of blocks: 133; Duration for sequential: 201; Duration for thread: 71; Speed up: 2.83099
-Amount of blocks: 134; Duration for sequential: 209; Duration for thread: 54; Speed up: 3.87037
-Amount of blocks: 135; Duration for sequential: 210; Duration for thread: 60; Speed up: 3.5
-Amount of blocks: 136; Duration for sequential: 207; Duration for thread: 59; Speed up: 3.50847
-Amount of blocks: 137; Duration for sequential: 200; Duration for thread: 67; Speed up: 2.98507
-Amount of blocks: 138; Duration for sequential: 212; Duration for thread: 51; Speed up: 4.15686
-Amount of blocks: 139; Duration for sequential: 214; Duration for thread: 60; Speed up: 3.56667
-Amount of blocks: 140; Duration for sequential: 202; Duration for thread: 65; Speed up: 3.10769
-Amount of blocks: 141; Duration for sequential: 217; Duration for thread: 66; Speed up: 3.28788
-Amount of blocks: 142; Duration for sequential: 216; Duration for thread: 79; Speed up: 2.73418
-Amount of blocks: 143; Duration for sequential: 207; Duration for thread: 70; Speed up: 2.95714
-Amount of blocks: 144; Duration for sequential: 202; Duration for thread: 84; Speed up: 2.40476
-Amount of blocks: 145; Duration for sequential: 209; Duration for thread: 67; Speed up: 3.1194
-Amount of blocks: 146; Duration for sequential: 202; Duration for thread: 93; Speed up: 2.17204
-Amount of blocks: 147; Duration for sequential: 210; Duration for thread: 70; Speed up: 3
-Amount of blocks: 148; Duration for sequential: 206; Duration for thread: 92; Speed up: 2.23913
-Amount of blocks: 149; Duration for sequential: 209; Duration for thread: 77; Speed up: 2.71429
-Amount of blocks: 150; Duration for sequential: 218; Duration for thread: 82; Speed up: 2.65854
-Amount of blocks: 151; Duration for sequential: 208; Duration for thread: 62; Speed up: 3.35484
-Amount of blocks: 152; Duration for sequential: 216; Duration for thread: 69; Speed up: 3.13043
-Amount of blocks: 153; Duration for sequential: 216; Duration for thread: 80; Speed up: 2.7
-Amount of blocks: 154; Duration for sequential: 204; Duration for thread: 82; Speed up: 2.4878
-Amount of blocks: 155; Duration for sequential: 227; Duration for thread: 80; Speed up: 2.8375
-Amount of blocks: 156; Duration for sequential: 206; Duration for thread: 67; Speed up: 3.07463
-Amount of blocks: 157; Duration for sequential: 201; Duration for thread: 88; Speed up: 2.28409
-Amount of blocks: 158; Duration for sequential: 210; Duration for thread: 95; Speed up: 2.21053
-Amount of blocks: 159; Duration for sequential: 228; Duration for thread: 74; Speed up: 3.08108
-Amount of blocks: 160; Duration for sequential: 209; Duration for thread: 80; Speed up: 2.6125
-Amount of blocks: 161; Duration for sequential: 213; Duration for thread: 103; Speed up: 2.06796
-Amount of blocks: 162; Duration for sequential: 256; Duration for thread: 81; Speed up: 3.16049
-Amount of blocks: 163; Duration for sequential: 208; Duration for thread: 87; Speed up: 2.3908
-Amount of blocks: 164; Duration for sequential: 222; Duration for thread: 65; Speed up: 3.41538
-Amount of blocks: 165; Duration for sequential: 204; Duration for thread: 82; Speed up: 2.4878
-Amount of blocks: 166; Duration for sequential: 210; Duration for thread: 74; Speed up: 2.83784
-Amount of blocks: 167; Duration for sequential: 211; Duration for thread: 65; Speed up: 3.24615
-Amount of blocks: 168; Duration for sequential: 224; Duration for thread: 80; Speed up: 2.8
-Amount of blocks: 169; Duration for sequential: 205; Duration for thread: 100; Speed up: 2.05
-Amount of blocks: 170; Duration for sequential: 212; Duration for thread: 76; Speed up: 2.78947
-Amount of blocks: 171; Duration for sequential: 206; Duration for thread: 97; Speed up: 2.12371
-Amount of blocks: 172; Duration for sequential: 283; Duration for thread: 71; Speed up: 3.98592
-Amount of blocks: 173; Duration for sequential: 211; Duration for thread: 90; Speed up: 2.34444
-Amount of blocks: 174; Duration for sequential: 213; Duration for thread: 96; Speed up: 2.21875
-Amount of blocks: 175; Duration for sequential: 207; Duration for thread: 111; Speed up: 1.86486
-Amount of blocks: 176; Duration for sequential: 249; Duration for thread: 99; Speed up: 2.51515
-Amount of blocks: 177; Duration for sequential: 226; Duration for thread: 81; Speed up: 2.79012
-Amount of blocks: 178; Duration for sequential: 224; Duration for thread: 85; Speed up: 2.63529
-Amount of blocks: 179; Duration for sequential: 222; Duration for thread: 86; Speed up: 2.5814
-Amount of blocks: 180; Duration for sequential: 209; Duration for thread: 84; Speed up: 2.4881
-Amount of blocks: 181; Duration for sequential: 210; Duration for thread: 84; Speed up: 2.5
-Amount of blocks: 182; Duration for sequential: 221; Duration for thread: 94; Speed up: 2.35106
-Amount of blocks: 183; Duration for sequential: 212; Duration for thread: 78; Speed up: 2.71795
-Amount of blocks: 184; Duration for sequential: 217; Duration for thread: 89; Speed up: 2.4382
-Amount of blocks: 185; Duration for sequential: 217; Duration for thread: 104; Speed up: 2.08654
-Amount of blocks: 186; Duration for sequential: 210; Duration for thread: 80; Speed up: 2.625
-Amount of blocks: 187; Duration for sequential: 208; Duration for thread: 101; Speed up: 2.05941
-Amount of blocks: 188; Duration for sequential: 227; Duration for thread: 87; Speed up: 2.6092
-Amount of blocks: 189; Duration for sequential: 216; Duration for thread: 110; Speed up: 1.96364
-Amount of blocks: 190; Duration for sequential: 211; Duration for thread: 113; Speed up: 1.86726
-Amount of blocks: 191; Duration for sequential: 211; Duration for thread: 94; Speed up: 2.24468
-Amount of blocks: 192; Duration for sequential: 216; Duration for thread: 90; Speed up: 2.4
-Amount of blocks: 193; Duration for sequential: 211; Duration for thread: 92; Speed up: 2.29348
-Amount of blocks: 194; Duration for sequential: 212; Duration for thread: 98; Speed up: 2.16327
-Amount of blocks: 195; Duration for sequential: 209; Duration for thread: 100; Speed up: 2.09
-Amount of blocks: 196; Duration for sequential: 209; Duration for thread: 86; Speed up: 2.43023
-Amount of blocks: 197; Duration for sequential: 206; Duration for thread: 102; Speed up: 2.01961
-Amount of blocks: 198; Duration for sequential: 205; Duration for thread: 106; Speed up: 1.93396
-Amount of blocks: 199; Duration for sequential: 211; Duration for thread: 113; Speed up: 1.86726
-Amount of blocks: 200; Duration for sequential: 212; Duration for thread: 105; Speed up: 2.01905
-Amount of blocks: 201; Duration for sequential: 211; Duration for thread: 103; Speed up: 2.04854
-Amount of blocks: 202; Duration for sequential: 203; Duration for thread: 108; Speed up: 1.87963
-Amount of blocks: 203; Duration for sequential: 200; Duration for thread: 110; Speed up: 1.81818
-Amount of blocks: 204; Duration for sequential: 242; Duration for thread: 108; Speed up: 2.24074
-Amount of blocks: 205; Duration for sequential: 217; Duration for thread: 101; Speed up: 2.14851
-Amount of blocks: 206; Duration for sequential: 208; Duration for thread: 100; Speed up: 2.08
-Amount of blocks: 207; Duration for sequential: 212; Duration for thread: 109; Speed up: 1.94495
-Amount of blocks: 208; Duration for sequential: 209; Duration for thread: 112; Speed up: 1.86607
-Amount of blocks: 209; Duration for sequential: 218; Duration for thread: 105; Speed up: 2.07619
-Amount of blocks: 210; Duration for sequential: 205; Duration for thread: 130; Speed up: 1.57692
-Amount of blocks: 211; Duration for sequential: 202; Duration for thread: 119; Speed up: 1.69748
-Amount of blocks: 212; Duration for sequential: 209; Duration for thread: 133; Speed up: 1.57143
-Amount of blocks: 213; Duration for sequential: 208; Duration for thread: 110; Speed up: 1.89091
-Amount of blocks: 214; Duration for sequential: 219; Duration for thread: 110; Speed up: 1.99091
-Amount of blocks: 215; Duration for sequential: 208; Duration for thread: 117; Speed up: 1.77778
-Amount of blocks: 216; Duration for sequential: 215; Duration for thread: 114; Speed up: 1.88596
-Amount of blocks: 217; Duration for sequential: 212; Duration for thread: 135; Speed up: 1.57037
-Amount of blocks: 218; Duration for sequential: 204; Duration for thread: 113; Speed up: 1.80531
-Amount of blocks: 219; Duration for sequential: 202; Duration for thread: 127; Speed up: 1.59055
-Amount of blocks: 220; Duration for sequential: 208; Duration for thread: 125; Speed up: 1.664
-Amount of blocks: 221; Duration for sequential: 202; Duration for thread: 117; Speed up: 1.7265
-Amount of blocks: 222; Duration for sequential: 204; Duration for thread: 117; Speed up: 1.74359
-Amount of blocks: 223; Duration for sequential: 210; Duration for thread: 109; Speed up: 1.92661
-Amount of blocks: 224; Duration for sequential: 205; Duration for thread: 127; Speed up: 1.61417
-Amount of blocks: 225; Duration for sequential: 202; Duration for thread: 127; Speed up: 1.59055
-Amount of blocks: 226; Duration for sequential: 238; Duration for thread: 142; Speed up: 1.67606
-Amount of blocks: 227; Duration for sequential: 249; Duration for thread: 123; Speed up: 2.02439
-Amount of blocks: 228; Duration for sequential: 206; Duration for thread: 128; Speed up: 1.60938
-Amount of blocks: 229; Duration for sequential: 212; Duration for thread: 149; Speed up: 1.42282
-Amount of blocks: 230; Duration for sequential: 204; Duration for thread: 132; Speed up: 1.54545
-Amount of blocks: 231; Duration for sequential: 206; Duration for thread: 125; Speed up: 1.648
-Amount of blocks: 232; Duration for sequential: 216; Duration for thread: 128; Speed up: 1.6875
-Amount of blocks: 233; Duration for sequential: 204; Duration for thread: 128; Speed up: 1.59375
-Amount of blocks: 234; Duration for sequential: 205; Duration for thread: 141; Speed up: 1.4539
-Amount of blocks: 235; Duration for sequential: 208; Duration for thread: 134; Speed up: 1.55224
-Amount of blocks: 236; Duration for sequential: 201; Duration for thread: 136; Speed up: 1.47794
-Amount of blocks: 237; Duration for sequential: 212; Duration for thread: 126; Speed up: 1.68254
-Amount of blocks: 238; Duration for sequential: 207; Duration for thread: 135; Speed up: 1.53333
-Amount of blocks: 239; Duration for sequential: 204; Duration for thread: 140; Speed up: 1.45714
-Amount of blocks: 240; Duration for sequential: 213; Duration for thread: 142; Speed up: 1.5
-Amount of blocks: 241; Duration for sequential: 205; Duration for thread: 139; Speed up: 1.47482
-Amount of blocks: 242; Duration for sequential: 206; Duration for thread: 150; Speed up: 1.37333
-Amount of blocks: 243; Duration for sequential: 210; Duration for thread: 141; Speed up: 1.48936
-Amount of blocks: 244; Duration for sequential: 203; Duration for thread: 140; Speed up: 1.45
-Amount of blocks: 245; Duration for sequential: 252; Duration for thread: 171; Speed up: 1.47368
-Amount of blocks: 246; Duration for sequential: 250; Duration for thread: 142; Speed up: 1.76056
-Amount of blocks: 247; Duration for sequential: 208; Duration for thread: 152; Speed up: 1.36842
-Amount of blocks: 248; Duration for sequential: 209; Duration for thread: 146; Speed up: 1.43151
-Amount of blocks: 249; Duration for sequential: 214; Duration for thread: 155; Speed up: 1.38065
-Amount of blocks: 250; Duration for sequential: 215; Duration for thread: 151; Speed up: 1.42384
-Amount of blocks: 251; Duration for sequential: 205; Duration for thread: 156; Speed up: 1.3141
-Amount of blocks: 252; Duration for sequential: 205; Duration for thread: 152; Speed up: 1.34868
-Amount of blocks: 253; Duration for sequential: 205; Duration for thread: 156; Speed up: 1.3141
-Amount of blocks: 254; Duration for sequential: 208; Duration for thread: 150; Speed up: 1.38667
-Amount of blocks: 255; Duration for sequential: 205; Duration for thread: 166; Speed up: 1.23494
-Amount of blocks: 256; Duration for sequential: 214; Duration for thread: 151; Speed up: 1.41722
-Amount of blocks: 257; Duration for sequential: 217; Duration for thread: 157; Speed up: 1.38217
-Amount of blocks: 258; Duration for sequential: 209; Duration for thread: 166; Speed up: 1.25904
-Amount of blocks: 259; Duration for sequential: 216; Duration for thread: 162; Speed up: 1.33333
-Amount of blocks: 260; Duration for sequential: 211; Duration for thread: 159; Speed up: 1.32704
-Amount of blocks: 261; Duration for sequential: 206; Duration for thread: 164; Speed up: 1.2561
-Amount of blocks: 262; Duration for sequential: 203; Duration for thread: 160; Speed up: 1.26875
-Amount of blocks: 263; Duration for sequential: 212; Duration for thread: 164; Speed up: 1.29268
-Amount of blocks: 264; Duration for sequential: 209; Duration for thread: 172; Speed up: 1.21512
-Amount of blocks: 265; Duration for sequential: 203; Duration for thread: 164; Speed up: 1.2378
-Amount of blocks: 266; Duration for sequential: 217; Duration for thread: 167; Speed up: 1.2994
-Amount of blocks: 267; Duration for sequential: 210; Duration for thread: 178; Speed up: 1.17978
-Amount of blocks: 268; Duration for sequential: 207; Duration for thread: 177; Speed up: 1.16949
-Amount of blocks: 269; Duration for sequential: 205; Duration for thread: 159; Speed up: 1.28931
-Amount of blocks: 270; Duration for sequential: 216; Duration for thread: 172; Speed up: 1.25581
-Amount of blocks: 271; Duration for sequential: 207; Duration for thread: 173; Speed up: 1.19653
-Amount of blocks: 272; Duration for sequential: 211; Duration for thread: 176; Speed up: 1.19886
-Amount of blocks: 273; Duration for sequential: 208; Duration for thread: 198; Speed up: 1.05051
-Amount of blocks: 274; Duration for sequential: 202; Duration for thread: 181; Speed up: 1.11602
-Amount of blocks: 275; Duration for sequential: 251; Duration for thread: 208; Speed up: 1.20673
-Amount of blocks: 276; Duration for sequential: 245; Duration for thread: 178; Speed up: 1.3764
-Amount of blocks: 277; Duration for sequential: 209; Duration for thread: 188; Speed up: 1.1117
-Amount of blocks: 278; Duration for sequential: 205; Duration for thread: 183; Speed up: 1.12022
-Amount of blocks: 279; Duration for sequential: 206; Duration for thread: 183; Speed up: 1.12568
-Amount of blocks: 280; Duration for sequential: 214; Duration for thread: 187; Speed up: 1.14439
-Amount of blocks: 281; Duration for sequential: 211; Duration for thread: 176; Speed up: 1.19886
-Amount of blocks: 282; Duration for sequential: 207; Duration for thread: 190; Speed up: 1.08947
-Amount of blocks: 283; Duration for sequential: 208; Duration for thread: 185; Speed up: 1.12432
-Amount of blocks: 284; Duration for sequential: 204; Duration for thread: 182; Speed up: 1.12088
-Amount of blocks: 285; Duration for sequential: 206; Duration for thread: 187; Speed up: 1.1016
-Amount of blocks: 286; Duration for sequential: 205; Duration for thread: 187; Speed up: 1.09626
-Amount of blocks: 287; Duration for sequential: 206; Duration for thread: 196; Speed up: 1.05102
-Amount of blocks: 288; Duration for sequential: 209; Duration for thread: 191; Speed up: 1.09424
-Amount of blocks: 289; Duration for sequential: 199; Duration for thread: 197; Speed up: 1.01015
-Amount of blocks: 290; Duration for sequential: 209; Duration for thread: 198; Speed up: 1.05556
-Amount of blocks: 291; Duration for sequential: 210; Duration for thread: 190; Speed up: 1.10526
-Amount of blocks: 292; Duration for sequential: 207; Duration for thread: 187; Speed up: 1.10695
-Amount of blocks: 293; Duration for sequential: 244; Duration for thread: 249; Speed up: 0.97992
-Amount of blocks: 294; Duration for sequential: 237; Duration for thread: 203; Speed up: 1.16749
-Amount of blocks: 295; Duration for sequential: 208; Duration for thread: 195; Speed up: 1.06667
-Amount of blocks: 296; Duration for sequential: 207; Duration for thread: 204; Speed up: 1.01471
-Amount of blocks: 297; Duration for sequential: 202; Duration for thread: 211; Speed up: 0.957346
-Amount of blocks: 298; Duration for sequential: 208; Duration for thread: 206; Speed up: 1.00971
-Amount of blocks: 299; Duration for sequential: 212; Duration for thread: 212; Speed up: 1
+Size of blocks: 1; Amount of blocks: 90000; Duration for sequential: 465; Duration for thread: 18415; Speed up: 0.0252512
+Size of blocks: 2; Amount of blocks: 45000; Duration for sequential: 328; Duration for thread: 2570; Speed up: 0.127626
+Size of blocks: 3; Amount of blocks: 30000; Duration for sequential: 329; Duration for thread: 1015; Speed up: 0.324138
+Size of blocks: 4; Amount of blocks: 22500; Duration for sequential: 333; Duration for thread: 546; Speed up: 0.60989
+Size of blocks: 5; Amount of blocks: 18000; Duration for sequential: 338; Duration for thread: 372; Speed up: 0.908602
+Size of blocks: 6; Amount of blocks: 15000; Duration for sequential: 329; Duration for thread: 260; Speed up: 1.26538
+Size of blocks: 7; Amount of blocks: 12900; Duration for sequential: 332; Duration for thread: 197; Speed up: 1.68528
+Size of blocks: 8; Amount of blocks: 11400; Duration for sequential: 339; Duration for thread: 163; Speed up: 2.07975
+Size of blocks: 9; Amount of blocks: 10200; Duration for sequential: 342; Duration for thread: 139; Speed up: 2.46043
+Size of blocks: 10; Amount of blocks: 9000; Duration for sequential: 335; Duration for thread: 125; Speed up: 2.68
+Size of blocks: 11; Amount of blocks: 8400; Duration for sequential: 338; Duration for thread: 115; Speed up: 2.93913
+Size of blocks: 12; Amount of blocks: 7500; Duration for sequential: 346; Duration for thread: 108; Speed up: 3.2037
+Size of blocks: 13; Amount of blocks: 7200; Duration for sequential: 340; Duration for thread: 100; Speed up: 3.4
+Size of blocks: 14; Amount of blocks: 6600; Duration for sequential: 335; Duration for thread: 97; Speed up: 3.45361
+Size of blocks: 15; Amount of blocks: 6000; Duration for sequential: 331; Duration for thread: 93; Speed up: 3.55914
+Size of blocks: 16; Amount of blocks: 5700; Duration for sequential: 335; Duration for thread: 90; Speed up: 3.72222
+Size of blocks: 17; Amount of blocks: 5400; Duration for sequential: 331; Duration for thread: 87; Speed up: 3.8046
+Size of blocks: 18; Amount of blocks: 5100; Duration for sequential: 337; Duration for thread: 88; Speed up: 3.82955
+Size of blocks: 19; Amount of blocks: 4800; Duration for sequential: 334; Duration for thread: 87; Speed up: 3.83908
+Size of blocks: 20; Amount of blocks: 4500; Duration for sequential: 343; Duration for thread: 83; Speed up: 4.13253
+Size of blocks: 21; Amount of blocks: 4500; Duration for sequential: 334; Duration for thread: 86; Speed up: 3.88372
+Size of blocks: 22; Amount of blocks: 4200; Duration for sequential: 348; Duration for thread: 82; Speed up: 4.2439
+Size of blocks: 23; Amount of blocks: 4200; Duration for sequential: 347; Duration for thread: 82; Speed up: 4.23171
+Size of blocks: 24; Amount of blocks: 3900; Duration for sequential: 337; Duration for thread: 81; Speed up: 4.16049
+Size of blocks: 25; Amount of blocks: 3600; Duration for sequential: 344; Duration for thread: 83; Speed up: 4.14458
+Size of blocks: 26; Amount of blocks: 3600; Duration for sequential: 332; Duration for thread: 80; Speed up: 4.15
+Size of blocks: 27; Amount of blocks: 3600; Duration for sequential: 340; Duration for thread: 80; Speed up: 4.25
+Size of blocks: 28; Amount of blocks: 3300; Duration for sequential: 338; Duration for thread: 79; Speed up: 4.27848
+Size of blocks: 29; Amount of blocks: 3300; Duration for sequential: 346; Duration for thread: 80; Speed up: 4.325
+Size of blocks: 30; Amount of blocks: 3000; Duration for sequential: 332; Duration for thread: 79; Speed up: 4.20253
+Size of blocks: 31; Amount of blocks: 3000; Duration for sequential: 339; Duration for thread: 78; Speed up: 4.34615
+Size of blocks: 32; Amount of blocks: 3000; Duration for sequential: 334; Duration for thread: 80; Speed up: 4.175
+Size of blocks: 33; Amount of blocks: 3000; Duration for sequential: 330; Duration for thread: 81; Speed up: 4.07407
+Size of blocks: 34; Amount of blocks: 2700; Duration for sequential: 331; Duration for thread: 79; Speed up: 4.18987
+Size of blocks: 35; Amount of blocks: 2700; Duration for sequential: 337; Duration for thread: 79; Speed up: 4.26582
+Size of blocks: 36; Amount of blocks: 2700; Duration for sequential: 337; Duration for thread: 78; Speed up: 4.32051
+Size of blocks: 37; Amount of blocks: 2700; Duration for sequential: 330; Duration for thread: 79; Speed up: 4.17722
+Size of blocks: 38; Amount of blocks: 2400; Duration for sequential: 336; Duration for thread: 77; Speed up: 4.36364
+Size of blocks: 39; Amount of blocks: 2400; Duration for sequential: 348; Duration for thread: 76; Speed up: 4.57895
+Size of blocks: 40; Amount of blocks: 2400; Duration for sequential: 336; Duration for thread: 78; Speed up: 4.30769
+Size of blocks: 41; Amount of blocks: 2400; Duration for sequential: 331; Duration for thread: 77; Speed up: 4.2987
+Size of blocks: 42; Amount of blocks: 2400; Duration for sequential: 337; Duration for thread: 78; Speed up: 4.32051
+Size of blocks: 43; Amount of blocks: 2100; Duration for sequential: 328; Duration for thread: 81; Speed up: 4.04938
+Size of blocks: 44; Amount of blocks: 2100; Duration for sequential: 333; Duration for thread: 78; Speed up: 4.26923
+Size of blocks: 45; Amount of blocks: 2100; Duration for sequential: 334; Duration for thread: 79; Speed up: 4.22785
+Size of blocks: 46; Amount of blocks: 2100; Duration for sequential: 334; Duration for thread: 79; Speed up: 4.22785
+Size of blocks: 47; Amount of blocks: 2100; Duration for sequential: 335; Duration for thread: 81; Speed up: 4.1358
+Size of blocks: 48; Amount of blocks: 2100; Duration for sequential: 339; Duration for thread: 77; Speed up: 4.4026
+Size of blocks: 49; Amount of blocks: 2100; Duration for sequential: 338; Duration for thread: 79; Speed up: 4.27848
+Size of blocks: 50; Amount of blocks: 1800; Duration for sequential: 337; Duration for thread: 77; Speed up: 4.37662
+Size of blocks: 51; Amount of blocks: 1800; Duration for sequential: 332; Duration for thread: 79; Speed up: 4.20253
+Size of blocks: 52; Amount of blocks: 1800; Duration for sequential: 334; Duration for thread: 81; Speed up: 4.12346
+Size of blocks: 53; Amount of blocks: 1800; Duration for sequential: 333; Duration for thread: 78; Speed up: 4.26923
+Size of blocks: 54; Amount of blocks: 1800; Duration for sequential: 350; Duration for thread: 82; Speed up: 4.26829
+Size of blocks: 55; Amount of blocks: 1800; Duration for sequential: 333; Duration for thread: 81; Speed up: 4.11111
+Size of blocks: 56; Amount of blocks: 1800; Duration for sequential: 345; Duration for thread: 78; Speed up: 4.42308
+Size of blocks: 57; Amount of blocks: 1800; Duration for sequential: 332; Duration for thread: 80; Speed up: 4.15
+Size of blocks: 58; Amount of blocks: 1800; Duration for sequential: 340; Duration for thread: 79; Speed up: 4.3038
+Size of blocks: 59; Amount of blocks: 1800; Duration for sequential: 335; Duration for thread: 84; Speed up: 3.9881
+Size of blocks: 60; Amount of blocks: 1500; Duration for sequential: 332; Duration for thread: 84; Speed up: 3.95238
+Size of blocks: 61; Amount of blocks: 1500; Duration for sequential: 341; Duration for thread: 85; Speed up: 4.01176
+Size of blocks: 62; Amount of blocks: 1500; Duration for sequential: 334; Duration for thread: 79; Speed up: 4.22785
+Size of blocks: 63; Amount of blocks: 1500; Duration for sequential: 331; Duration for thread: 77; Speed up: 4.2987
+Size of blocks: 64; Amount of blocks: 1500; Duration for sequential: 333; Duration for thread: 79; Speed up: 4.21519
+Size of blocks: 65; Amount of blocks: 1500; Duration for sequential: 332; Duration for thread: 82; Speed up: 4.04878
+Size of blocks: 66; Amount of blocks: 1500; Duration for sequential: 339; Duration for thread: 77; Speed up: 4.4026
+Size of blocks: 67; Amount of blocks: 1500; Duration for sequential: 334; Duration for thread: 82; Speed up: 4.07317
+Size of blocks: 68; Amount of blocks: 1500; Duration for sequential: 342; Duration for thread: 84; Speed up: 4.07143
+Size of blocks: 69; Amount of blocks: 1500; Duration for sequential: 337; Duration for thread: 78; Speed up: 4.32051
+Size of blocks: 70; Amount of blocks: 1500; Duration for sequential: 341; Duration for thread: 80; Speed up: 4.2625
+Size of blocks: 71; Amount of blocks: 1500; Duration for sequential: 335; Duration for thread: 81; Speed up: 4.1358
+Size of blocks: 72; Amount of blocks: 1500; Duration for sequential: 334; Duration for thread: 74; Speed up: 4.51351
+Size of blocks: 73; Amount of blocks: 1500; Duration for sequential: 348; Duration for thread: 75; Speed up: 4.64
+Size of blocks: 74; Amount of blocks: 1500; Duration for sequential: 335; Duration for thread: 75; Speed up: 4.46667
+Size of blocks: 75; Amount of blocks: 1200; Duration for sequential: 338; Duration for thread: 95; Speed up: 3.55789
+Size of blocks: 76; Amount of blocks: 1200; Duration for sequential: 337; Duration for thread: 74; Speed up: 4.55405
+Size of blocks: 77; Amount of blocks: 1200; Duration for sequential: 334; Duration for thread: 77; Speed up: 4.33766
+Size of blocks: 78; Amount of blocks: 1200; Duration for sequential: 333; Duration for thread: 77; Speed up: 4.32468
+Size of blocks: 79; Amount of blocks: 1200; Duration for sequential: 334; Duration for thread: 74; Speed up: 4.51351
+Size of blocks: 80; Amount of blocks: 1200; Duration for sequential: 332; Duration for thread: 80; Speed up: 4.15
+Size of blocks: 81; Amount of blocks: 1200; Duration for sequential: 336; Duration for thread: 78; Speed up: 4.30769
+Size of blocks: 82; Amount of blocks: 1200; Duration for sequential: 340; Duration for thread: 81; Speed up: 4.19753
+Size of blocks: 83; Amount of blocks: 1200; Duration for sequential: 330; Duration for thread: 80; Speed up: 4.125
+Size of blocks: 84; Amount of blocks: 1200; Duration for sequential: 343; Duration for thread: 77; Speed up: 4.45455
+Size of blocks: 85; Amount of blocks: 1200; Duration for sequential: 333; Duration for thread: 80; Speed up: 4.1625
+Size of blocks: 86; Amount of blocks: 1200; Duration for sequential: 340; Duration for thread: 90; Speed up: 3.77778
+Size of blocks: 87; Amount of blocks: 1200; Duration for sequential: 341; Duration for thread: 77; Speed up: 4.42857
+Size of blocks: 88; Amount of blocks: 1200; Duration for sequential: 343; Duration for thread: 88; Speed up: 3.89773
+Size of blocks: 89; Amount of blocks: 1200; Duration for sequential: 326; Duration for thread: 91; Speed up: 3.58242
+Size of blocks: 90; Amount of blocks: 1200; Duration for sequential: 331; Duration for thread: 89; Speed up: 3.7191
+Size of blocks: 91; Amount of blocks: 1200; Duration for sequential: 339; Duration for thread: 80; Speed up: 4.2375
+Size of blocks: 92; Amount of blocks: 1200; Duration for sequential: 332; Duration for thread: 98; Speed up: 3.38776
+Size of blocks: 93; Amount of blocks: 1200; Duration for sequential: 339; Duration for thread: 76; Speed up: 4.46053
+Size of blocks: 94; Amount of blocks: 1200; Duration for sequential: 332; Duration for thread: 86; Speed up: 3.86047
+Size of blocks: 95; Amount of blocks: 1200; Duration for sequential: 344; Duration for thread: 100; Speed up: 3.44
+Size of blocks: 96; Amount of blocks: 1200; Duration for sequential: 379; Duration for thread: 82; Speed up: 4.62195
+Size of blocks: 97; Amount of blocks: 1200; Duration for sequential: 340; Duration for thread: 81; Speed up: 4.19753
+Size of blocks: 98; Amount of blocks: 1200; Duration for sequential: 337; Duration for thread: 86; Speed up: 3.9186
+Size of blocks: 99; Amount of blocks: 1200; Duration for sequential: 346; Duration for thread: 85; Speed up: 4.07059
+Size of blocks: 100; Amount of blocks: 900; Duration for sequential: 343; Duration for thread: 111; Speed up: 3.09009
+Size of blocks: 101; Amount of blocks: 900; Duration for sequential: 334; Duration for thread: 104; Speed up: 3.21154
+Size of blocks: 102; Amount of blocks: 900; Duration for sequential: 329; Duration for thread: 102; Speed up: 3.22549
+Size of blocks: 103; Amount of blocks: 900; Duration for sequential: 337; Duration for thread: 100; Speed up: 3.37
+Size of blocks: 104; Amount of blocks: 900; Duration for sequential: 327; Duration for thread: 92; Speed up: 3.55435
+Size of blocks: 105; Amount of blocks: 900; Duration for sequential: 340; Duration for thread: 83; Speed up: 4.09639
+Size of blocks: 106; Amount of blocks: 900; Duration for sequential: 333; Duration for thread: 89; Speed up: 3.74157
+Size of blocks: 107; Amount of blocks: 900; Duration for sequential: 345; Duration for thread: 95; Speed up: 3.63158
+Size of blocks: 108; Amount of blocks: 900; Duration for sequential: 328; Duration for thread: 90; Speed up: 3.64444
+Size of blocks: 109; Amount of blocks: 900; Duration for sequential: 339; Duration for thread: 88; Speed up: 3.85227
+Size of blocks: 110; Amount of blocks: 900; Duration for sequential: 333; Duration for thread: 77; Speed up: 4.32468
+Size of blocks: 111; Amount of blocks: 900; Duration for sequential: 339; Duration for thread: 79; Speed up: 4.29114
+Size of blocks: 112; Amount of blocks: 900; Duration for sequential: 332; Duration for thread: 89; Speed up: 3.73034
+Size of blocks: 113; Amount of blocks: 900; Duration for sequential: 334; Duration for thread: 94; Speed up: 3.55319
+Size of blocks: 114; Amount of blocks: 900; Duration for sequential: 339; Duration for thread: 84; Speed up: 4.03571
+Size of blocks: 115; Amount of blocks: 900; Duration for sequential: 334; Duration for thread: 89; Speed up: 3.75281
+Size of blocks: 116; Amount of blocks: 900; Duration for sequential: 343; Duration for thread: 87; Speed up: 3.94253
+Size of blocks: 117; Amount of blocks: 900; Duration for sequential: 332; Duration for thread: 100; Speed up: 3.32
+Size of blocks: 118; Amount of blocks: 900; Duration for sequential: 339; Duration for thread: 90; Speed up: 3.76667
+Size of blocks: 119; Amount of blocks: 900; Duration for sequential: 336; Duration for thread: 91; Speed up: 3.69231
+Size of blocks: 120; Amount of blocks: 900; Duration for sequential: 337; Duration for thread: 92; Speed up: 3.66304
+Size of blocks: 121; Amount of blocks: 900; Duration for sequential: 356; Duration for thread: 97; Speed up: 3.6701
+Size of blocks: 122; Amount of blocks: 900; Duration for sequential: 329; Duration for thread: 94; Speed up: 3.5
+Size of blocks: 123; Amount of blocks: 900; Duration for sequential: 333; Duration for thread: 89; Speed up: 3.74157
+Size of blocks: 124; Amount of blocks: 900; Duration for sequential: 341; Duration for thread: 92; Speed up: 3.70652
+Size of blocks: 125; Amount of blocks: 900; Duration for sequential: 337; Duration for thread: 94; Speed up: 3.58511
+Size of blocks: 126; Amount of blocks: 900; Duration for sequential: 341; Duration for thread: 94; Speed up: 3.62766
+Size of blocks: 127; Amount of blocks: 900; Duration for sequential: 328; Duration for thread: 95; Speed up: 3.45263
+Size of blocks: 128; Amount of blocks: 900; Duration for sequential: 328; Duration for thread: 105; Speed up: 3.12381
+Size of blocks: 129; Amount of blocks: 900; Duration for sequential: 327; Duration for thread: 95; Speed up: 3.44211
+Size of blocks: 130; Amount of blocks: 900; Duration for sequential: 337; Duration for thread: 98; Speed up: 3.43878
+Size of blocks: 131; Amount of blocks: 900; Duration for sequential: 334; Duration for thread: 93; Speed up: 3.5914
+Size of blocks: 132; Amount of blocks: 900; Duration for sequential: 337; Duration for thread: 91; Speed up: 3.7033
+Size of blocks: 133; Amount of blocks: 900; Duration for sequential: 338; Duration for thread: 101; Speed up: 3.34653
+Size of blocks: 134; Amount of blocks: 900; Duration for sequential: 345; Duration for thread: 104; Speed up: 3.31731
+Size of blocks: 135; Amount of blocks: 900; Duration for sequential: 335; Duration for thread: 108; Speed up: 3.10185
+Size of blocks: 136; Amount of blocks: 900; Duration for sequential: 327; Duration for thread: 106; Speed up: 3.08491
+Size of blocks: 137; Amount of blocks: 900; Duration for sequential: 333; Duration for thread: 103; Speed up: 3.23301
+Size of blocks: 138; Amount of blocks: 900; Duration for sequential: 332; Duration for thread: 107; Speed up: 3.1028
+Size of blocks: 139; Amount of blocks: 900; Duration for sequential: 330; Duration for thread: 104; Speed up: 3.17308
+Size of blocks: 140; Amount of blocks: 900; Duration for sequential: 340; Duration for thread: 115; Speed up: 2.95652
+Size of blocks: 141; Amount of blocks: 900; Duration for sequential: 337; Duration for thread: 106; Speed up: 3.17925
+Size of blocks: 142; Amount of blocks: 900; Duration for sequential: 338; Duration for thread: 102; Speed up: 3.31373
+Size of blocks: 143; Amount of blocks: 900; Duration for sequential: 334; Duration for thread: 110; Speed up: 3.03636
+Size of blocks: 144; Amount of blocks: 900; Duration for sequential: 329; Duration for thread: 109; Speed up: 3.01835
+Size of blocks: 145; Amount of blocks: 900; Duration for sequential: 330; Duration for thread: 109; Speed up: 3.02752
+Size of blocks: 146; Amount of blocks: 900; Duration for sequential: 330; Duration for thread: 105; Speed up: 3.14286
+Size of blocks: 147; Amount of blocks: 900; Duration for sequential: 327; Duration for thread: 108; Speed up: 3.02778
+Size of blocks: 148; Amount of blocks: 900; Duration for sequential: 328; Duration for thread: 123; Speed up: 2.66667
+Size of blocks: 149; Amount of blocks: 900; Duration for sequential: 335; Duration for thread: 99; Speed up: 3.38384
+Size of blocks: 150; Amount of blocks: 600; Duration for sequential: 341; Duration for thread: 99; Speed up: 3.44444
+Size of blocks: 151; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 96; Speed up: 3.44792
+Size of blocks: 152; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 109; Speed up: 3.0367
+Size of blocks: 153; Amount of blocks: 600; Duration for sequential: 344; Duration for thread: 111; Speed up: 3.0991
+Size of blocks: 154; Amount of blocks: 600; Duration for sequential: 328; Duration for thread: 110; Speed up: 2.98182
+Size of blocks: 155; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 105; Speed up: 3.10476
+Size of blocks: 156; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 105; Speed up: 3.17143
+Size of blocks: 157; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 116; Speed up: 2.86207
+Size of blocks: 158; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 105; Speed up: 3.13333
+Size of blocks: 159; Amount of blocks: 600; Duration for sequential: 338; Duration for thread: 99; Speed up: 3.41414
+Size of blocks: 160; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 105; Speed up: 3.1619
+Size of blocks: 161; Amount of blocks: 600; Duration for sequential: 328; Duration for thread: 94; Speed up: 3.48936
+Size of blocks: 162; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 120; Speed up: 2.75833
+Size of blocks: 163; Amount of blocks: 600; Duration for sequential: 336; Duration for thread: 102; Speed up: 3.29412
+Size of blocks: 164; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 133; Speed up: 2.51128
+Size of blocks: 165; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 131; Speed up: 2.54198
+Size of blocks: 166; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 120; Speed up: 2.71667
+Size of blocks: 167; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 115; Speed up: 2.87826
+Size of blocks: 168; Amount of blocks: 600; Duration for sequential: 335; Duration for thread: 125; Speed up: 2.68
+Size of blocks: 169; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 136; Speed up: 2.41912
+Size of blocks: 170; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 149; Speed up: 2.24161
+Size of blocks: 171; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 109; Speed up: 3.05505
+Size of blocks: 172; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 110; Speed up: 2.99091
+Size of blocks: 173; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 131; Speed up: 2.54198
+Size of blocks: 174; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 137; Speed up: 2.38686
+Size of blocks: 175; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 128; Speed up: 2.60156
+Size of blocks: 176; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 113; Speed up: 2.9115
+Size of blocks: 177; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 122; Speed up: 2.71311
+Size of blocks: 178; Amount of blocks: 600; Duration for sequential: 328; Duration for thread: 129; Speed up: 2.54264
+Size of blocks: 179; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 130; Speed up: 2.54615
+Size of blocks: 180; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 133; Speed up: 2.45865
+Size of blocks: 181; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 123; Speed up: 2.70732
+Size of blocks: 182; Amount of blocks: 600; Duration for sequential: 336; Duration for thread: 159; Speed up: 2.11321
+Size of blocks: 183; Amount of blocks: 600; Duration for sequential: 335; Duration for thread: 129; Speed up: 2.5969
+Size of blocks: 184; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 163; Speed up: 2.04908
+Size of blocks: 185; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 137; Speed up: 2.41606
+Size of blocks: 186; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 151; Speed up: 2.17881
+Size of blocks: 187; Amount of blocks: 600; Duration for sequential: 328; Duration for thread: 158; Speed up: 2.07595
+Size of blocks: 188; Amount of blocks: 600; Duration for sequential: 335; Duration for thread: 131; Speed up: 2.55725
+Size of blocks: 189; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 130; Speed up: 2.53077
+Size of blocks: 190; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 159; Speed up: 2.05031
+Size of blocks: 191; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 139; Speed up: 2.34532
+Size of blocks: 192; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 151; Speed up: 2.18543
+Size of blocks: 193; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 150; Speed up: 2.22667
+Size of blocks: 194; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 162; Speed up: 2.04938
+Size of blocks: 195; Amount of blocks: 600; Duration for sequential: 338; Duration for thread: 150; Speed up: 2.25333
+Size of blocks: 196; Amount of blocks: 600; Duration for sequential: 335; Duration for thread: 175; Speed up: 1.91429
+Size of blocks: 197; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 159; Speed up: 2.10063
+Size of blocks: 198; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 150; Speed up: 2.17333
+Size of blocks: 199; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 177; Speed up: 1.84746
+Size of blocks: 200; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 171; Speed up: 1.92982
+Size of blocks: 201; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 181; Speed up: 1.8232
+Size of blocks: 202; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 148; Speed up: 2.2027
+Size of blocks: 203; Amount of blocks: 600; Duration for sequential: 336; Duration for thread: 193; Speed up: 1.74093
+Size of blocks: 204; Amount of blocks: 600; Duration for sequential: 340; Duration for thread: 157; Speed up: 2.16561
+Size of blocks: 205; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 167; Speed up: 1.99401
+Size of blocks: 206; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 162; Speed up: 2.06173
+Size of blocks: 207; Amount of blocks: 600; Duration for sequential: 338; Duration for thread: 163; Speed up: 2.07362
+Size of blocks: 208; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 172; Speed up: 1.89535
+Size of blocks: 209; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 175; Speed up: 1.88571
+Size of blocks: 210; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 160; Speed up: 2.0375
+Size of blocks: 211; Amount of blocks: 600; Duration for sequential: 341; Duration for thread: 163; Speed up: 2.09202
+Size of blocks: 212; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 172; Speed up: 1.93023
+Size of blocks: 213; Amount of blocks: 600; Duration for sequential: 339; Duration for thread: 169; Speed up: 2.00592
+Size of blocks: 214; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 166; Speed up: 1.96988
+Size of blocks: 215; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 174; Speed up: 1.91379
+Size of blocks: 216; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 190; Speed up: 1.72105
+Size of blocks: 217; Amount of blocks: 600; Duration for sequential: 339; Duration for thread: 178; Speed up: 1.90449
+Size of blocks: 218; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 182; Speed up: 1.83516
+Size of blocks: 219; Amount of blocks: 600; Duration for sequential: 328; Duration for thread: 174; Speed up: 1.88506
+Size of blocks: 220; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 185; Speed up: 1.76757
+Size of blocks: 221; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 177; Speed up: 1.87571
+Size of blocks: 222; Amount of blocks: 600; Duration for sequential: 338; Duration for thread: 186; Speed up: 1.8172
+Size of blocks: 223; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 227; Speed up: 1.46696
+Size of blocks: 224; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 197; Speed up: 1.65482
+Size of blocks: 225; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 195; Speed up: 1.69231
+Size of blocks: 226; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 262; Speed up: 1.24809
+Size of blocks: 227; Amount of blocks: 600; Duration for sequential: 342; Duration for thread: 194; Speed up: 1.76289
+Size of blocks: 228; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 189; Speed up: 1.72487
+Size of blocks: 229; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 205; Speed up: 1.59024
+Size of blocks: 230; Amount of blocks: 600; Duration for sequential: 328; Duration for thread: 220; Speed up: 1.49091
+Size of blocks: 231; Amount of blocks: 600; Duration for sequential: 335; Duration for thread: 211; Speed up: 1.58768
+Size of blocks: 232; Amount of blocks: 600; Duration for sequential: 340; Duration for thread: 195; Speed up: 1.74359
+Size of blocks: 233; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 201; Speed up: 1.65672
+Size of blocks: 234; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 214; Speed up: 1.53738
+Size of blocks: 235; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 201; Speed up: 1.62687
+Size of blocks: 236; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 208; Speed up: 1.57212
+Size of blocks: 237; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 216; Speed up: 1.53241
+Size of blocks: 238; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 215; Speed up: 1.52093
+Size of blocks: 239; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 207; Speed up: 1.57488
+Size of blocks: 240; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 209; Speed up: 1.58373
+Size of blocks: 241; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 216; Speed up: 1.54167
+Size of blocks: 242; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 231; Speed up: 1.44589
+Size of blocks: 243; Amount of blocks: 600; Duration for sequential: 344; Duration for thread: 232; Speed up: 1.48276
+Size of blocks: 244; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 238; Speed up: 1.39076
+Size of blocks: 245; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 219; Speed up: 1.52511
+Size of blocks: 246; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 219; Speed up: 1.48858
+Size of blocks: 247; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 229; Speed up: 1.45852
+Size of blocks: 248; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 223; Speed up: 1.46188
+Size of blocks: 249; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 225; Speed up: 1.44889
+Size of blocks: 250; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 233; Speed up: 1.40343
+Size of blocks: 251; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 229; Speed up: 1.45852
+Size of blocks: 252; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 246; Speed up: 1.32927
+Size of blocks: 253; Amount of blocks: 600; Duration for sequential: 338; Duration for thread: 250; Speed up: 1.352
+Size of blocks: 254; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 234; Speed up: 1.40598
+Size of blocks: 255; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 252; Speed up: 1.31746
+Size of blocks: 256; Amount of blocks: 600; Duration for sequential: 338; Duration for thread: 239; Speed up: 1.41423
+Size of blocks: 257; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 243; Speed up: 1.36214
+Size of blocks: 258; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 274; Speed up: 1.20438
+Size of blocks: 259; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 253; Speed up: 1.3004
+Size of blocks: 260; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 252; Speed up: 1.31746
+Size of blocks: 261; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 253; Speed up: 1.31621
+Size of blocks: 262; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 260; Speed up: 1.28462
+Size of blocks: 263; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 256; Speed up: 1.30078
+Size of blocks: 264; Amount of blocks: 600; Duration for sequential: 337; Duration for thread: 258; Speed up: 1.3062
+Size of blocks: 265; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 269; Speed up: 1.21561
+Size of blocks: 266; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 257; Speed up: 1.29183
+Size of blocks: 267; Amount of blocks: 600; Duration for sequential: 333; Duration for thread: 269; Speed up: 1.23792
+Size of blocks: 268; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 263; Speed up: 1.26236
+Size of blocks: 269; Amount of blocks: 600; Duration for sequential: 335; Duration for thread: 270; Speed up: 1.24074
+Size of blocks: 270; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 268; Speed up: 1.24627
+Size of blocks: 271; Amount of blocks: 600; Duration for sequential: 325; Duration for thread: 274; Speed up: 1.18613
+Size of blocks: 272; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 282; Speed up: 1.1844
+Size of blocks: 273; Amount of blocks: 600; Duration for sequential: 325; Duration for thread: 275; Speed up: 1.18182
+Size of blocks: 274; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 284; Speed up: 1.16901
+Size of blocks: 275; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 283; Speed up: 1.16961
+Size of blocks: 276; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 276; Speed up: 1.18116
+Size of blocks: 277; Amount of blocks: 600; Duration for sequential: 337; Duration for thread: 279; Speed up: 1.20789
+Size of blocks: 278; Amount of blocks: 600; Duration for sequential: 325; Duration for thread: 281; Speed up: 1.15658
+Size of blocks: 279; Amount of blocks: 600; Duration for sequential: 331; Duration for thread: 289; Speed up: 1.14533
+Size of blocks: 280; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 347; Speed up: 0.956772
+Size of blocks: 281; Amount of blocks: 600; Duration for sequential: 339; Duration for thread: 294; Speed up: 1.15306
+Size of blocks: 282; Amount of blocks: 600; Duration for sequential: 340; Duration for thread: 295; Speed up: 1.15254
+Size of blocks: 283; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 296; Speed up: 1.11486
+Size of blocks: 284; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 300; Speed up: 1.1
+Size of blocks: 285; Amount of blocks: 600; Duration for sequential: 325; Duration for thread: 294; Speed up: 1.10544
+Size of blocks: 286; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 297; Speed up: 1.12458
+Size of blocks: 287; Amount of blocks: 600; Duration for sequential: 336; Duration for thread: 310; Speed up: 1.08387
+Size of blocks: 288; Amount of blocks: 600; Duration for sequential: 335; Duration for thread: 309; Speed up: 1.08414
+Size of blocks: 289; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 305; Speed up: 1.06885
+Size of blocks: 290; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 305; Speed up: 1.09508
+Size of blocks: 291; Amount of blocks: 600; Duration for sequential: 325; Duration for thread: 317; Speed up: 1.02524
+Size of blocks: 292; Amount of blocks: 600; Duration for sequential: 332; Duration for thread: 311; Speed up: 1.06752
+Size of blocks: 293; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 315; Speed up: 1.06032
+Size of blocks: 294; Amount of blocks: 600; Duration for sequential: 329; Duration for thread: 315; Speed up: 1.04444
+Size of blocks: 295; Amount of blocks: 600; Duration for sequential: 334; Duration for thread: 329; Speed up: 1.0152
+Size of blocks: 296; Amount of blocks: 600; Duration for sequential: 327; Duration for thread: 319; Speed up: 1.02508
+Size of blocks: 297; Amount of blocks: 600; Duration for sequential: 326; Duration for thread: 338; Speed up: 0.964497
+Size of blocks: 298; Amount of blocks: 600; Duration for sequential: 328; Duration for thread: 328; Speed up: 1
+Size of blocks: 299; Amount of blocks: 600; Duration for sequential: 330; Duration for thread: 333; Speed up: 0.990991
